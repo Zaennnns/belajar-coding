@@ -1,1 +1,16 @@
+# rencana belajar koding
 
+A. front-End
+  1. HTML, CSS, dan Javascript
+  2. Framwork css
+    a) Boostrap
+    b) Twalind
+  3. HTML:5, Modern CSS, dan Modern JavaScript
+  4. Framework Javascript
+    a)React Js
+    b) Vue Js
+    
+B. Backend
+  1. Python
+  2. Node Js(Javascript)
+  3. PHP
